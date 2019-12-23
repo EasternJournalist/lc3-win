@@ -5,6 +5,7 @@ Even though there is only one project named "lc3-simulator", it can actually do 
 
 You may refer to the PPT to get to know about how this simulator works. (Note that the ppt is only about simulator.)
 
+# Features
 The simulator supports TRAP, I/O and interrput and disassembling, all features of official LC-3 in windows and even more. It runs in command lines by provides a nice UI, which makes it even more convenient than the those with GUI.
 
 # Requirements
