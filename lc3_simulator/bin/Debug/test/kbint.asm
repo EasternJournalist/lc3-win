@@ -1,0 +1,11 @@
+;keyboard test
+.ORIG x3000
+	LD R3, A
+	STI R3, KBSR
+	AGAIN LD R0, B
+	TRAP x21
+	BRnzp AGAIN
+A 	.FILL x4000
+B 	.FILL x0032
+KBSR 	.FILL xFE00
+.END

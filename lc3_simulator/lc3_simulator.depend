@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1576581094 source:d:\2019homework\ics\lc3_simulator\main.cpp
+	<iostream>
+	"sim.h"
+	<stdlib.h>
+	<stdio.h>
+
+1577037523 d:\2019homework\ics\lc3_simulator\sim.h
+	<conio.h>
+	<windows.h>
+	<string>
+	<map>
+	<set>
+	<vector>
+	<sstream>
+
+1577063853 source:d:\2019homework\ics\lc3_simulator\sim.cpp
+	"sim.h"
+	<cstdio>
+	<sstream>
+	<windows.h>
+	<iostream>
+	<fstream>
+
