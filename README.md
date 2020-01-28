@@ -1,7 +1,7 @@
 # lc3-win
 A  LC-3 assembler &amp; simulator (not official version) by cpp. LC-3 is referred to the book Introduction to Computing System by Yale N. Patt and Sanjay I. Patel. The assignment is from the ICS course in USTC taught by An Hong.
 
-Even though there is only one project named "lc3-simulator", it can actually do both what simulator and assembler does. You can use commands in the program to assemble, simulator and debug you lc-3 program. 
+Even though there is only one project named "lc3-simulator", it can actually do what both simulator and assembler do. You can use commands in the program to assemble, simulator and debug you lc-3 program. 
 
 You may refer to the PPT to get to know about how this simulator works. (Note that the ppt is only about simulator.)
 
